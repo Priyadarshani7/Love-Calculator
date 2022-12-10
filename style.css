@@ -1,0 +1,127 @@
+.card-header{
+    background-color: crimson;
+}
+.box{
+    align-items: center;
+}
+.card{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border: 10px solid lavenderblush;
+    border-radius: 40px;
+    box-shadow: 20px 20px 50px pink;
+    
+}
+.form1{
+    width: 75%;
+
+    margin: auto;
+   
+}
+.card-footer{
+    color: black;
+}
+.dot{
+    color: aliceblue;
+}
+.button{
+    width: 75%;
+    margin: auto;
+    border: none;
+    text-align: center;
+    border-radius:10px;
+}
+    /* background-color: palevioletred; /* Green */
+    /* border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 5px; 
+   
+} */
+.footer{
+    text-align: center;
+    width: 25%;
+    margin: auto;
+}
+.form-control{
+    text-align: center;
+}
+.box{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+/* body{
+background: rgba(214, 174, 242, 1.0);
+background: -webkit-radial-gradient(top right, rgba(214, 174, 242, 1.0), rgba(238, 198, 229, 1.0));
+background: -moz-radial-gradient(top right, rgba(214, 174, 242, 1.0), rgba(238, 198, 229, 1.0));
+background: radial-gradient(to bottom left, rgba(214, 174, 242, 1.0), rgba(238, 198, 229, 1.0));
+} */
+body{
+    background-color: lavenderblush;
+}
+.heading{
+    text-align: center;
+}
+.form-control{
+    border: 3px solid palevioletred;
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+  color: mediumvioletred;
+  
+}
+.box1{
+  color: black;
+}
+.box2{
+    color: black;
+  }
+  p{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    color: black;
+  }
+  .footer{
+    border: 10px solid palevioletred;
+}
+  .add{
+    text-decoration: black;
+    font-size: xx-large;
+    font-weight: bolder;
+  }
+  /* .button{
+    width: 45%;
+    /* margin: auto; */
+    /* margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    border-radius:10px;
+    align-items: center;
+    background-color:palevioletred;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    margin: 2px 1px;
+    cursor: pointer;
+  }
+  btn{
+    align-items: center;
+  }
+   */ 
+.btn{
+    width: 40%;
+    border: 3px solid whitesmoke;
+    background-color: palevioletred;
+    color: aliceblue;
+    cursor: pointer;
+    size: large;
+}
